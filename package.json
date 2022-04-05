@@ -1,0 +1,23 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons vu comment nous pouvions créer un module, afin de compartimenter notre code. Nous avons également découvert qu'il existait une infinité de modules déjà existants, récupérables, et installable via npm. Ici nous allons utiliser l'un des modules les plus populaires : dayjs ! Il va vous permettre de jouer avec les dates en faisant des calculs et/ou des formatages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-XIII/S03E03-bookshelf-olivier-oclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-XIII/S03E03-bookshelf-olivier-oclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-XIII/S03E03-bookshelf-olivier-oclock#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
